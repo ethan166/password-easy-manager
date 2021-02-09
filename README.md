@@ -1,6 +1,6 @@
 # Objective
 
-The goal of this project to easily generate safe and easy-to-memorize passwords using a desird keyword and store them in a secure file or database as well to easily look it up when required.
+The goal of this project to easily generate safe and easy-to-memorize passwords using a desird keyword and store them in a secure file or database to easily access the passwords when required.
 
 # PasswordEasyManager
 
